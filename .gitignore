@@ -1,0 +1,4 @@
+.env
+*.csv
+./*.mp4
+before_training/other
